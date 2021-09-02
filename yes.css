@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Charmonman", sans-serif;
+}
+
+body {
+  background:pink;
+}
+canvas {
+    display: block;
+}
+#Love {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  width: 33%;
+  height: 100%;
+  
+}
+#loveAnswer {
+  position: absolute;
+  left:40%;
+  top:10%;
+  font-size: 200%;
+  text-align: center;
+}
